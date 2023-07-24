@@ -1,0 +1,200 @@
+.payment-method {
+    position: absolute;
+    top: 150px;
+    left: 578px;
+  }
+  .google-pay-button-png-image-fr-icon,
+  .upi-logo-png-lyp5s5-1-icon {
+    position: absolute;
+    top: 26.4px;
+    left: 0;
+    width: 55.06px;
+    height: 15.09px;
+    object-fit: cover;
+  }
+  .google-pay-button-png-image-fr-icon {
+    top: 0;
+    width: 67.89px;
+    height: 67.89px;
+  }
+  .phonepe-logo-png-image-free-do-icon {
+    position: absolute;
+    top: 8.3px;
+    left: 97.3px;
+    width: 45.26px;
+    height: 45.26px;
+    object-fit: cover;
+  }
+  .paytm-circle-logo-png-image-fr-icon {
+    position: absolute;
+    top: 12.07px;
+    left: 178.01px;
+    width: 43.75px;
+    height: 43.75px;
+    object-fit: cover;
+  }
+  .google-pay-button-png-image-fr-parent,
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 85.24px;
+    width: 221.76px;
+    height: 67.89px;
+  }
+  .group-child {
+    top: 12.07px;
+    left: 69.4px;
+    width: 16.76px;
+    height: 36.61px;
+  }
+  .upi-logo-png-lyp5s5-1-parent {
+    position: absolute;
+    top: 199px;
+    left: 539px;
+    width: 307px;
+    height: 67.89px;
+  }
+  .payment-details {
+    position: absolute;
+    top: 298px;
+    left: 583px;
+  }
+  .group-item,
+  .payment-page-inner {
+    position: absolute;
+    width: 73px;
+    height: 51px;
+  }
+  .group-item {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-2xs);
+    background-color: var(--color-gray-400);
+  }
+  .payment-page-inner {
+    top: 693px;
+    left: 722px;
+  }
+  .group-inner,
+  .payment-page-child {
+    position: absolute;
+    width: 110px;
+    height: 51px;
+  }
+  .group-inner {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-2xs);
+    background-color: var(--color-gray-400);
+  }
+  .payment-page-child {
+    top: 693px;
+    left: 583px;
+  }
+  .terms-conditions {
+    margin: 0;
+  }
+  .terms-conditions-container {
+    position: absolute;
+    top: 836px;
+    left: 14px;
+    font-size: var(--text-s-regular-size);
+  }
+  .enter-name-on {
+    position: relative;
+    display: inline-block;
+    width: 248px;
+    height: 38px;
+    flex-shrink: 0;
+  }
+  .enter-name-on-card-wrapper {
+    position: absolute;
+    top: 352px;
+    left: 403px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-lightcyan);
+    width: 562px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-177xl) var(--padding-2xs) 0;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    color: var(--color-gray-500);
+  }
+  .expiry-date {
+    position: relative;
+    display: inline-block;
+    width: 153px;
+    height: 38px;
+    flex-shrink: 0;
+  }
+  .expiry-date-parent {
+    position: absolute;
+    top: 546px;
+    left: 403px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-lightcyan);
+    width: 562px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-177xl) var(--padding-2xs) 0;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 162px;
+    text-align: center;
+    color: var(--color-gray-500);
+  }
+  .pngegg-1-icon {
+    position: relative;
+    width: 42px;
+    height: 42px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .card-number-parent {
+    position: absolute;
+    top: 447px;
+    left: 401px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-lightcyan);
+    width: 562px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-2xs) var(--padding-2xs)
+      var(--padding-3xs);
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 250px;
+    color: var(--color-gray-500);
+  }
+  .cancel,
+  .pay {
+    position: absolute;
+    top: 699px;
+    left: 738px;
+    color: var(--color-snow);
+  }
+  .cancel {
+    left: 599px;
+  }
+  .kindly-pay-the {
+    position: absolute;
+    top: 50px;
+    left: 438px;
+  }
+  .payment-page {
+    position: relative;
+    background-color: var(--base-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-sitara);
+  }
+  

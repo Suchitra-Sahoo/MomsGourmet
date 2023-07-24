@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-outfit: Outfit;
+    --font-roboto: Roboto;
+    --font-nunito-sans: "Nunito Sans";
+    --font-lilita-one: "Lilita One";
+    --font-itim: Itim;
+    --font-joti-one: "Joti One";
+  
+    /* font sizes */
+    --font-size-6xl: 25px;
+    --font-size-3xl: 22px;
+    --font-size-sm: 14px;
+    --font-size-lg: 18px;
+    --font-size-11xl: 30px;
+  
+    /* Colors */
+    --color-midnightblue: #0f043a;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-lightgray: #ded2d9;
+    --color-gray: rgba(0, 0, 0, 0.12);
+    --color-gray-100: rgba(255, 255, 255, 0.47);
+    --color-gray-200: rgba(255, 255, 255, 0.8);
+  
+    /* Gaps */
+    --gap-9xs: 4px;
+  
+    /* Paddings */
+    --padding-3xs: 10px;
+    --padding-smi: 13px;
+    --padding-xl: 20px;
+  
+    /* border radiuses */
+    --br-3xs: 10px;
+    --br-31xl: 50px;
+  }
+  

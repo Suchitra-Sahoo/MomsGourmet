@@ -1,0 +1,157 @@
+.image-1-icon2 {
+    position: absolute;
+    top: 111px;
+    left: 840px;
+    border-radius: var(--br-77xl);
+    width: 680px;
+    height: 512px;
+    object-fit: cover;
+  }
+  .tiffin-service {
+    position: absolute;
+    top: 367px;
+    left: 243px;
+    font-size: 65px;
+    font-family: var(--font-joti-one);
+    display: flex;
+    align-items: flex-end;
+    width: 500px;
+    height: 101px;
+  }
+  .moms-gourmet-spice-seasoning-b-icon {
+    position: absolute;
+    top: 145px;
+    left: 9px;
+    width: 697.23px;
+    height: 366px;
+    object-fit: cover;
+  }
+  .hover {
+    position: relative;
+    letter-spacing: 0.2em;
+    opacity: 0.4;
+  }
+  .home-button,
+  .login1 {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-gray);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home-button {
+    left: 218px;
+  }
+  .hover2 {
+    position: relative;
+    font-size: var(--font-size-11xl);
+    letter-spacing: 0.2em;
+    font-family: var(--font-roboto);
+    color: var(--color-black);
+    text-align: left;
+    opacity: 0.4;
+  }
+  .about-us,
+  .contact-us,
+  .location,
+  .sign-up {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-xl);
+    background-color: var(--color-gray);
+    position: absolute;
+    top: 8px;
+    left: 426px;
+    border-radius: var(--br-31xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .about-us,
+  .contact-us,
+  .location {
+    left: 667px;
+  }
+  .about-us,
+  .location {
+    left: 969px;
+  }
+  .about-us {
+    left: 1218px;
+  }
+  .image-1-parent {
+    position: relative;
+    border-radius: 0 0 300px 0;
+    background-color: var(--color-lightcoral);
+    width: 1520px;
+    height: 623px;
+    flex-shrink: 0;
+    overflow: hidden;
+    font-family: var(--font-roboto);
+  }
+  .our-mission {
+    position: absolute;
+    top: 28px;
+    left: 14px;
+    display: flex;
+    align-items: flex-end;
+    width: 373px;
+    height: 67px;
+  }
+  .our-mission-wrapper {
+    position: relative;
+    border-radius: 70px;
+    background: linear-gradient(rgba(239, 0, 0, 0.76), rgba(239, 0, 0, 0.76)),
+      linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fff;
+    width: 421px;
+    height: 123px;
+    flex-shrink: 0;
+    overflow: hidden;
+    font-size: 55px;
+    color: var(--base-white);
+  }
+  .lift-her-up {
+    position: relative;
+    font-size: 48px;
+  }
+  .moms-gormet-is {
+    margin: 0;
+  }
+  .moms-gormet-is-container1 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .moms-gormet-is-container {
+    position: relative;
+    font-size: 45px;
+    font-family: var(--font-lilita-one);
+    color: rgba(223, 71, 71, 0.9);
+    display: flex;
+    align-items: flex-end;
+    width: 1156px;
+    height: 450px;
+    flex-shrink: 0;
+  }
+  .desktop-12 {
+    position: relative;
+    background-color: rgba(255, 186, 164, 0.6);
+    width: 100%;
+    height: 1666px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+    text-align: left;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-itim);
+  }
+  

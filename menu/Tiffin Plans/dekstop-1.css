@@ -1,0 +1,288 @@
+.blurred-background-11-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 3290px;
+    object-fit: cover;
+  }
+  .our-menu {
+    position: absolute;
+    top: 15px;
+    left: 32px;
+    font-size: 50.37px;
+    font-family: var(--font-libre-baskerville);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 447px;
+    -webkit-text-stroke: 1px #000;
+  }
+  .our-menu-wrapper {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: #fe8c4c;
+    position: absolute;
+    top: 26px;
+    left: 511px;
+    border-radius: 40px;
+    width: 389px;
+    height: 93px;
+    overflow: hidden;
+  }
+  .desktop-1-item {
+    position: absolute;
+    top: 885px;
+    left: 45px;
+    border-radius: var(--br-11xl);
+    width: 1068px;
+    height: 79px;
+  }
+  .monday {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 243px;
+    height: 66.35px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000;
+  }
+  .arhaar-dal {
+    margin: 0;
+  }
+  .arhaar-dal-gobi-container {
+    position: absolute;
+    top: 85.3px;
+    left: 5px;
+    font-size: var(--font-size-3xl-5);
+    display: inline-block;
+    width: 1014px;
+    height: 209.7px;
+  }
+  .desktop-1-inner,
+  .monday-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1019px;
+    height: 295px;
+  }
+  .desktop-1-inner {
+    top: 313px;
+    left: 119px;
+  }
+  .friday,
+  .kala-channa-chole-container {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  .friday {
+    top: 0;
+    width: 243px;
+    height: 56px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000;
+  }
+  .kala-channa-chole-container {
+    top: 68px;
+    font-size: var(--font-size-3xl-5);
+    width: 1014px;
+    height: 177px;
+  }
+  .friday-parent {
+    position: absolute;
+    top: 1662px;
+    left: 119px;
+    width: 1014px;
+    height: 245px;
+  }
+  .rajma-masala-dal-container {
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    font-size: var(--font-size-3xl-5);
+    display: inline-block;
+    width: 1071px;
+    height: 207px;
+  }
+  .tuesday-parent {
+    position: absolute;
+    top: 648px;
+    left: 103px;
+    width: 1091px;
+    height: 277px;
+  }
+  .kadi-pakoda-jeers-container {
+    position: absolute;
+    top: 66px;
+    left: 9px;
+    font-size: var(--font-size-3xl-5);
+    display: inline-block;
+    width: 1071px;
+    height: 207px;
+  }
+  .saturday-parent {
+    position: absolute;
+    top: 1989px;
+    left: 110px;
+    width: 1080px;
+    height: 273px;
+  }
+  .order-now {
+    position: relative;
+    font-size: var(--font-size-3xl-5);
+    font-family: var(--font-libre-baskerville);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .order-now-wrapper {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-3xs) var(--padding-xl);
+    background-color: var(--base-white);
+    position: absolute;
+    top: 475px;
+    left: 458px;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .group-div,
+  .sunday-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1080px;
+    height: 523px;
+  }
+  .group-div {
+    top: 2345px;
+    left: 110px;
+  }
+  .view-tiffin-plans-wrapper {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-3xs);
+    background-color: var(--base-white);
+    position: absolute;
+    top: 2914px;
+    left: 545px;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .chana-dal-butter-container {
+    position: absolute;
+    top: 70px;
+    left: 16px;
+    font-size: var(--font-size-3xl-5);
+    display: inline-block;
+    width: 1086px;
+    height: 273px;
+  }
+  .wednesday-parent {
+    position: absolute;
+    top: 1006px;
+    left: 103px;
+    width: 1102px;
+    height: 343px;
+  }
+  .kala-chana-dry-container {
+    position: absolute;
+    top: 68px;
+    left: 1px;
+    font-size: var(--font-size-3xl-5);
+    display: inline-block;
+    width: 1022px;
+    height: 323px;
+  }
+  .thursday-parent {
+    position: absolute;
+    top: 1310px;
+    left: 119px;
+    width: 1023px;
+    height: 391px;
+  }
+  .desktop-1-child1,
+  .ellipse-icon {
+    position: absolute;
+    top: 13px;
+    left: 972px;
+    width: 417px;
+    height: 393px;
+    object-fit: cover;
+  }
+  .desktop-1-child1 {
+    top: 425px;
+    left: 770px;
+    width: 518px;
+    height: 445px;
+  }
+  .veg-menu {
+    position: absolute;
+    top: 162px;
+    left: 103px;
+    font-size: 64px;
+    font-family: var(--font-leckerli-one);
+    display: inline-block;
+    width: 358px;
+    height: 86px;
+  }
+  .desktop-1-child2 {
+    position: absolute;
+    top: 885px;
+    left: 972px;
+    width: 417px;
+    height: 407px;
+    object-fit: cover;
+  }
+  .desktop-1-child3 {
+    position: absolute;
+    top: 2169px;
+    left: 0;
+    width: 673px;
+    height: 1089px;
+  }
+  .desktop-1-child4 {
+    position: absolute;
+    top: 1323px;
+    left: 796px;
+    width: 444px;
+    height: 429px;
+    object-fit: cover;
+  }
+  .desktop-1-child5,
+  .desktop-1-child6 {
+    position: absolute;
+    top: 1780px;
+    left: 889px;
+    width: 500px;
+    height: 465px;
+    object-fit: cover;
+  }
+  .desktop-1-child6 {
+    top: 2299px;
+    left: 849px;
+    width: 461px;
+    height: 415px;
+  }
+  .desktop-11 {
+    position: relative;
+    background-color: var(--color-lightcoral);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 3290px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-libre-baskerville);
+  }
+  

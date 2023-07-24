@@ -1,0 +1,108 @@
+.image-1-icon {
+    position: absolute;
+    top: 47px;
+    left: 0;
+    width: 1291px;
+    height: 814px;
+    object-fit: cover;
+  }
+  .desktop-1-child {
+    position: absolute;
+    top: 54px;
+    left: 399px;
+    border-radius: var(--br-11xl);
+    background-color: #c624a2;
+    width: 370px;
+    height: 87px;
+  }
+  .sentor-5-cont-red-close-640x64-icon {
+    position: absolute;
+    top: 196px;
+    left: 49px;
+    width: 232px;
+    height: 275px;
+    object-fit: cover;
+  }
+  .econa-deluxe-3-tiffin-pink1-mi-icon {
+    position: absolute;
+    top: 232px;
+    left: 379px;
+    width: 234px;
+    height: 239px;
+    object-fit: cover;
+  }
+  .my-borosil-stainless-steel-lun-icon {
+    position: absolute;
+    top: 268px;
+    left: 699px;
+    width: 343px;
+    height: 203px;
+    object-fit: cover;
+  }
+  .large,
+  .medium,
+  .small {
+    position: absolute;
+    -webkit-text-stroke: 1px #000;
+  }
+  .large {
+    top: 500px;
+    left: 88px;
+    font-size: var(--font-size-21xl);
+  }
+  .medium,
+  .small {
+    top: 495px;
+    left: 408px;
+    font-size: 40.41px;
+  }
+  .small {
+    top: 500px;
+    left: 790px;
+  }
+  .non-veg-rs {
+    margin: 0;
+  }
+  .veg-rs-55-container,
+  .veg-rs-65-container,
+  .veg-rs-80-container {
+    position: absolute;
+    top: 567px;
+    left: 29px;
+    display: inline-block;
+    width: 359px;
+    height: 198px;
+    -webkit-text-stroke: 1px #000;
+  }
+  .veg-rs-55-container,
+  .veg-rs-65-container {
+    left: 411px;
+    width: 297px;
+    height: 231px;
+  }
+  .veg-rs-55-container {
+    top: 570px;
+    left: 761px;
+    width: 359px;
+    height: 198px;
+  }
+  .tiffin-plans {
+    position: absolute;
+    top: 72px;
+    left: 451px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: 0.1em;
+    color: var(--base-white);
+    text-align: center;
+  }
+  .desktop-1 {
+    position: relative;
+    width: 100%;
+    height: 852px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-libre-baskerville);
+  }
+  
