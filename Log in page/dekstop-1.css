@@ -154,4 +154,9 @@
     color: var(--color-black);
     font-family: var(--font-itim);
   }
+  .icons {
+    position: relative;
+    width: 100px;
+    flex-shrink: 0;
+}
   

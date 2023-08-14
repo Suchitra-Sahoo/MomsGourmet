@@ -1205,3 +1205,13 @@
   color: var(--gray-700);
   font-family: var(--text-l-regular);
 }
+.icons {
+  position: relative;
+  width: 90px;
+  flex-shrink: 0;
+}
+.iconss {
+  position: relative;
+  width: 30px;
+  flex-shrink: 0;
+}

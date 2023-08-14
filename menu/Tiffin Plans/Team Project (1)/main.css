@@ -1,0 +1,16 @@
+.social-media-icons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.social-platforms-logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+
+
+
+
