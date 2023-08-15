@@ -34,6 +34,6 @@ Have questions, suggestions, or just want to say hello? Feel free to [contact us
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the MIT License, which means you're free to use, modify, and distribute the code as per the terms of the license.
 
 Let's bring the heartwarming taste of home to everyone, one dish at a time. Visit our website today!
