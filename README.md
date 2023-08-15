@@ -26,7 +26,7 @@ We're excited to have you join our journey of bringing homemade goodness to tabl
 
 ## Contributing
 
-We welcome contributions from developers, designers, and enthusiasts who want to enhance the MomsGourmet experience. If you're interested in contributing, check out our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from developers, designers, and enthusiasts who want to enhance the MomsGourmet experience. 
 
 ## Contact Us
 
